@@ -1,0 +1,77 @@
+.chordwp-column {
+  float: left;
+  display: block;
+  min-width: 290px;
+  margin-right: 10px;
+}
+
+.chordwp-clearfix {
+  margin-top: 25px;
+  clear: both;
+}
+
+table.verse-line,
+table.verse-line tr,
+table.verse-line tr td {
+  border: none;
+  width: auto;
+  padding: 0px 0.25em 0px 0px;
+  margin: 0px;
+  line-height: 1em;
+}
+
+table.verse-line {
+  margin-bottom: 10px;
+}
+
+table.verse-line td.chords {
+  font-weight: bold;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+table.verse-line tr td.lyrics {
+  line-height: 1.2em;
+}
+
+h1.song-title {
+  font-size: 1.2em;
+}
+
+p.lyrics {
+  padding: 0px 0px 0px 0px;
+  margin: 20px 0px 5px 0px;
+}
+
+.chorus {
+  margin: 25px 0px;
+  border-left: 3px solid #454545;
+  padding-left: 15px;
+}
+
+.directive {
+  display: block;
+  font-size: 0.9em;
+  padding: 0px 20px 0px 0px;
+  margin: 0px;
+  opacity: 0.7;
+}
+
+.comment,
+.comment-italic {
+  font-size: 0.9em;
+  padding: 10px 0px 0px 0px;
+  margin: 0px;
+  opacity: 0.7;
+}
+
+.comment-italic {
+  font-style: italic;
+}
+
+.comment-box {
+  border: 1px solid #CCCCCC;
+  padding: 2px 5px;
+  background-color: #EEEEEE;
+}
+
